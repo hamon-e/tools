@@ -5,7 +5,7 @@
 ** Login   <hamon_e@epitech.net>
 **
 ** Started on  Sun Dec 04 12:55:52 2016 Benoit Hamon
-** Last update Sun Dec 04 13:12:11 2016 Benoit Hamon
+** Last update Sun Dec 04 17:06:23 2016 Benoit Hamon
 */
 
 #ifndef HEADERS_PUBLIC_TOOLS_TOOLS_H_
@@ -17,9 +17,9 @@
 # define BASE_16_x	"0123456789abcdef"
 # define BASE_16_X	"0123456789ABCDEF"
 
-# define THE_FREE_ENUM_PATH	"../../headers/tools/the_free_enum.h"
-# define THE_FREE_DICO_PATH	"../../headers/tools/the_free_dico.h"
-# define THE_FREE_FUNC_PATH	"../../headers/tools/the_free_func.h"
+# define THE_FREE_ENUM_PATH	"../../headers/tools_config/the_free_enum.h"
+# define THE_FREE_DICO_PATH	"../../headers/tools_config/the_free_dico.h"
+# define THE_FREE_FUNC_PATH	"../../headers/tools_config/the_free_func.h"
 
 typedef enum		e_free
 {
